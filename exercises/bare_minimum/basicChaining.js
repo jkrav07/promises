@@ -10,6 +10,7 @@
 
 var fs = require('fs');
 var Promise = require('bluebird');
+var promises = require('promisification');
 
 
 
